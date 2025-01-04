@@ -89,5 +89,6 @@ I'm a passionate Ph.D. student in Statistics at the University of Missouri, with
 - **Email:** [sbk29@missouri.edu](mailto:sbk29@missouri.edu)
 - **LinkedIn:** [linkedin.com/in/souvikbag](https://www.linkedin.com/in/souvikbag/)
 - **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mJQ9QmgAAAAJ&citation_for_view=mJQ9QmgAAAAJ:u5HHmVD_uO8C)
+  
 ---
 
