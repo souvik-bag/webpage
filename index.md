@@ -1,4 +1,3 @@
-
 # Souvik Bag  
 ### Ph.D. Student in Statistics, University of Missouri  
 📞 **929-276-8537** | ✉️ **[sbk29@missouri.edu](mailto:sbk29@missouri.edu)** | 🔗 [LinkedIn](https://www.linkedin.com/in/souvikbag/) | 📚 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mJQ9QmgAAAAJ&citation_for_view=mJQ9QmgAAAAJ:u5HHmVD_uO8C)
@@ -53,35 +52,9 @@ I'm a passionate Ph.D. student in Statistics at the University of Missouri, with
 ---
 
 ## 📚 **Publications**
-### **A Review and Recommendations on Variable Selection Methods in Regression Models for Binary Data** (2024)  
-*International Statistical Review (under review)*  
-- Comprehensive review of frequentist variable selection methods in logistic regression, including a simulation study across different dimensional setups and correlation structures.
-- View on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mJQ9QmgAAAAJ&citation_for_view=mJQ9QmgAAAAJ:u5HHmVD_uO8C).
-
-### **Higher-Order Spatial Structure Functions for Exploring Spatial Extremes** (2024)  
-*Joint Statistical Meetings - Poster, Portland, OR*  
-- Investigated the use of higher-order structure functions to improve the characterization of the dependence structure of spatial extremes.
-
----
-
-## 🎖 **Leadership & Service**
-### **Secretary**  
-*Statistics Graduate Student Association, University of Missouri*  
-**August 2023 – Present**
-- Organized and led weekly meetings with officers to coordinate events, workshops, and outreach programs for over 50 graduate students.
-- Launched mentorship initiatives pairing new graduate students with experienced peers for guidance.
-
-### **Statistics Consultant**  
-*DataFest, Mid Missouri Chapter*  
-**April 2023, 2024**
-- Assisted participants from multiple universities with statistical questions and analyses.
-- Volunteered as a technical associate for prize distribution events.
-
-### **R Expert**  
-*Department of Statistics, University of Missouri*  
-**August 2022 – May 2023**
-- Provided statistical coding support to students and researchers.
-- Conducted educational sessions on R programming and statistical analysis techniques.
+- [**Projects**](projects.md)
+- [**Publications**](publications.md)
+- [**Contact**](contact.md)
 
 ---
 
@@ -89,6 +62,3 @@ I'm a passionate Ph.D. student in Statistics at the University of Missouri, with
 - **Email:** [sbk29@missouri.edu](mailto:sbk29@missouri.edu)
 - **LinkedIn:** [linkedin.com/in/souvikbag](https://www.linkedin.com/in/souvikbag/)
 - **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mJQ9QmgAAAAJ&citation_for_view=mJQ9QmgAAAAJ:u5HHmVD_uO8C)
-  
----
-
