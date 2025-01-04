@@ -1,7 +1,3 @@
-![Profile Picture](profile.jpeg)
-
-
-
 
 # Souvik Bag  
 ### Ph.D. Student in Statistics, University of Missouri  
