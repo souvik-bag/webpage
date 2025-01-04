@@ -1,8 +1,8 @@
 title: "Souvik Bag's Personal Webpage"
 description: "Ph.D. Student in Statistics | Machine Learning Enthusiast"
-theme: minimal
+theme: jekyll-theme-minimal
 baseurl: "" # Make sure this is empty for a personal website
-url: "https://<your-username>.github.io"
+url: "https://souvik-bag.github.io"
 
 # Navigation links
 header_pages:
