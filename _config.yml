@@ -1,6 +1,6 @@
 title: "Souvik Bag's Personal Webpage"
 description: "Ph.D. Student in Statistics | Machine Learning Enthusiast"
-theme: minima
+theme: minimal
 baseurl: "" # Make sure this is empty for a personal website
 url: "https://<your-username>.github.io"
 
