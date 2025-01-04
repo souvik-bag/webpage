@@ -1,20 +1,5 @@
 title: "Souvik Bag's Personal Webpage"
 description: "Ph.D. Student in Statistics | Machine Learning Enthusiast"
-theme: minimal
+theme: jekyll-theme-minimal
 baseurl: "" # Make sure this is empty for a personal website
-url: "https://souvik-bag.github.io"
-
-# Navigation links
-header_pages:
-  - README.md
-  - projects.md
-  - publications.md
-  - contact.md
-
-# Social media links
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/souvikbag/
-  - name: Google Scholar
-    url: https://scholar.google.com/citations?user=mJQ9QmgAAAAJ
 
