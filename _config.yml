@@ -1,6 +1,6 @@
 title: "Souvik Bag's Personal Webpage"
 description: "Ph.D. Student in Statistics | Machine Learning Enthusiast"
-theme: jekyll-theme-minimal
+theme: minimal
 baseurl: "" # Make sure this is empty for a personal website
 url: "https://souvik-bag.github.io"
 
