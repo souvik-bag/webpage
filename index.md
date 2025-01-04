@@ -1,3 +1,8 @@
+![Profile Picture](profile.jpg)
+
+
+
+
 # Souvik Bag  
 ### Ph.D. Student in Statistics, University of Missouri  
 📞 **929-276-8537** | ✉️ **[sbk29@missouri.edu](mailto:sbk29@missouri.edu)** | 🔗 [LinkedIn](https://www.linkedin.com/in/souvikbag/) | 📚 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mJQ9QmgAAAAJ&citation_for_view=mJQ9QmgAAAAJ:u5HHmVD_uO8C)
